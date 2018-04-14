@@ -1,0 +1,34 @@
+[33mcommit acc28c0e7de6a1b3fa1b47f01ebaa10fb3620788[m
+Author: Luca Stefani <luca.stefani.ge1@gmail.com>
+Date:   Thu Mar 8 10:06:05 2018 +0100
+
+    Update webviews to Chromium 65.0.3325.144
+    
+    Change-Id: I7450312a451771bf74e6b9f80f207b09abda5b96
+
+[33mcommit acf5a6e375152585ec716959c4dc44ca1d68a39c[m
+Author: Luca Stefani <luca020400@lineageos.org>
+Date:   Thu Jul 27 23:48:00 2017 +0200
+
+    Update webview
+    
+    * Chromium: 60.0.3112.78
+    
+    Change-Id: I5100bc2c0625b8f0bc907093b49521c4c4353d0d
+
+[33mcommit a43c19f0b6c9464c29d6bda63958d6f08410f8c3[m
+Author: Torne (Richard Coles) <torne@google.com>
+Date:   Tue Sep 20 11:59:50 2016 +0100
+
+    WebView AOSP Integration Request - 52.0.2743.100
+    
+    versionCode: 2756100
+    versionName: 52.0.2743.100
+    gs://chrome-unsigned/android-B0urB0N/52.0.2743.100/*
+    
+    Compiled against API24.  Suitable for public release.
+    
+    Bug: 31217937
+    Change-Id: Ie8afabe43486025e2a56d8c2e78d643963d7b532
+    (cherry picked from commit 19f2bca679cd9159965bbe6845f5c23a17ab314f)
+    (cherry picked from commit 591955fd5cf8b7cda005d38f5e46c543005c4493)
